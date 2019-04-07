@@ -1,0 +1,12 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+*.vtu
+*.pvd
+examples/.ipynb_checkpoints/
+docs/build/
+docs/site/
+docs/src/examples/generated/
+*.DS_Store
+/Manifest.toml
+/test/coverage/Manifest.toml
